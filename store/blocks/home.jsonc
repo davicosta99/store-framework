@@ -11,7 +11,7 @@
       "text": "**Hello, World!**",
       "textPosition": "RIGHT"
     },
-    "info-card#button-right" {
+    "info-card#button-right": {
       "isFullModeStyle": false,
       "textPosition": "right",
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-rosa-min.png",
@@ -22,7 +22,7 @@
       "callToActionUrl": "/sale/d",
       "textAlignment": "center"
     },
-    "info-card#button-left" {
+    "info-card#button-left": {
       "headline": "Shining chrome",
       "callToActionMode": "link",
       "callToActionText": "Go to Collection",

@@ -53,7 +53,7 @@
       "textPosition": "left",
       "blockClass": "metal"
     },
-
+  },
     "info-card#rethink": {
       "props": {
         "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/utensilios-cozinha-min.png",
@@ -76,4 +76,3 @@
       }
     }
   }
-}

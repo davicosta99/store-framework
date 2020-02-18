@@ -7,13 +7,14 @@
 
   "search-result-layout": {
     "blocks": [
-      "search-results-layout.desktop",
-      "search-results-layout.mobile",
+      "search-result-layout.desktop",
+      "search-result-layout.mobile",
       "search-not-found-layout"
     ]
   },
 
   "search-result-layout.desktop": {
+    
     "blocks": [
       "breadcrumb.search",
       "search-title.v2",
@@ -23,7 +24,12 @@
       "search-content",
       "filter-navigator.v3",
       "search-fetch-more"
-    ]
+    ],
+
+    "props": {
+      "pagination": "show-more"
+    }
+
   }
 
 }

@@ -5,7 +5,7 @@
     ]
   },
 
-  "search-results-layout": {
+  "search-result-layout": {
     "blocks": [
       "search-results-layout.desktop",
       "search-results-layout.mobile",
@@ -13,8 +13,8 @@
     ]
   },
 
-  "search-results-layout.desktop": {
-    "children": [
+  "search-result-layout.desktop": {
+    "blocks": [
       "breadcrumb.search",
       "search-title.v2",
       "total-products.v2",

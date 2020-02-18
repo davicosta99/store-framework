@@ -47,7 +47,7 @@
   "flex-layout.col#filter": {
 
     "children": [
-      "filter-navigation.v3"
+      "filter-navigator.v3"
     ],
 
     "props": {

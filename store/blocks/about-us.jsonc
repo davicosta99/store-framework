@@ -58,7 +58,7 @@
     "tab-list.item#home2": {
       "props": {
         "label": "Electronics",
-        "tabID": "electronics"
+        "tabId": "electronics"
       }
     },
     "tab-content#home": {
@@ -72,7 +72,7 @@
         "rich-text#home1"
       ],
       "props": {
-        "tabID": "majorAppliances"
+        "tabId": "majorAppliances"
       }
     },
     "tab-content.item#home2": {
@@ -80,7 +80,7 @@
         "rich-text#home2"
       ],
       "props": {
-        "tabID": "electronics"
+        "tabId": "electronics"
       }
     },
     "rich-text#home1": {

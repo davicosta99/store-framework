@@ -15,7 +15,7 @@
 
   "search-result-layout.desktop": {
 
-    "children": [
+    "blocks": [
       "breadcrumb.search",
       "search-title.v2",
       "total-products.v2",
